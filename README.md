@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @sinhah239
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Computer Science at Purdue University
-- 💞️ I’m looking to collaborate on anything new!
-- 📫 How to reach me: sinhah239@gmail.com
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/e6tA359EUw2kqhOBHL/giphy.gif" width="400"/>
+</div>
+
+Computer Science student at Purdue University (Grad. May 2025)
+  - Pursuing a focus in Computer Graphics and Visualization
+  - Interested in Game Developement
+  - Former FRC programming and team lead 
+
+Contact me here: sinhah239@gmail.com
 
 <!---
 sinhah239/sinhah239 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
