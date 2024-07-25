@@ -11,7 +11,7 @@
 
 Contact me here: sinhah239@gmail.com
 
-[^1]: My friend mudit
+[^1]: My friend Mudit
 
 <!---
 sinhah239/sinhah239 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
