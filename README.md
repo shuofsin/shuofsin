@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/e6tA359EUw2kqhOBHL/giphy.gif" width="400"/>
+  <img src="[https://media.giphy.com/media/e6tA359EUw2kqhOBHL/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3h4aDdvcHpzc2ZjY3ZwbXMxNnA1cGMwb2RwYTBhdmdtc2VlcGltaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif)" width="400"/>
 </div>
 
 **Computer Science student at Purdue University (Grad. May 2025)**
