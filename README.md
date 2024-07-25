@@ -1,6 +1,6 @@
 ### Hello!  
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400" height="400" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnIyYWxnNTd6aTVlYmYwbHgyOWRhem90cGVhZ3Vibm5mM2VpcTVwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UVwfullf2JumTYRcSz/giphy.gif" width="400" height="400" />
 
 **Computer Science student at Purdue University (Grad. May 2025)**
   - Amateur Game Dev
