@@ -2,12 +2,14 @@
   <img src="https://media.giphy.com/media/e6tA359EUw2kqhOBHL/giphy.gif" width="400"/>
 </div>
 
-# Computer Science student at Purdue University (Grad. May 2025)
-  ## Amateur Game Dev
-  ## "Interesting guy" - my friend Mudit
-  ## Curious about literature, ask me what I'm reading! 
+**Computer Science student at Purdue University (Grad. May 2025)**
+  - Amateur Game Dev
+  - "Interesting guy"[^1]
+  - Curious about literature, ask me what I'm reading! 
 
 Contact me here: sinhah239@gmail.com
+
+[^1]: My friend mudit
 
 <!---
 sinhah239/sinhah239 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
