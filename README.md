@@ -4,7 +4,7 @@
 
 **Computer Science student at Purdue University (Grad. May 2025)**
   - Amateur Game Dev
-  - Salesforce Dev
+  - I don't want to hear your app idea 
   - Curious about literature, ask me what I'm reading! 
 
 Contact me here: sinhah239@gmail.com
