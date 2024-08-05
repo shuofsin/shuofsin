@@ -5,7 +5,7 @@
 **Computer Science student at Purdue University (Grad. May 2025)**
   - Amateur Game Dev
   - Curious about literature, ask me what I'm reading!
-  - Currently working on
+  - Current Project(s)
     - Target Practice (working title)
 
 Contact me here: sinhah239@gmail.com
