@@ -6,7 +6,7 @@
   - Amateur Game Dev
   - Curious about literature, ask me what I'm reading!
   - Current Project(s)
-    - Target Practice (working title)
+    - High Flying Rogue
 
 Contact me here: sinhah239@gmail.com
 
