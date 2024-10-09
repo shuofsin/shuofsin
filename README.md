@@ -6,7 +6,7 @@
   - Amateur Game Dev
   - Curious about literature, ask me what I'm reading!
   - Current Project(s)
-    - High Flying Rogue
+    - Website (hopefully)
 
 Contact me here: sinhah239@gmail.com
 
