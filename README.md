@@ -4,7 +4,7 @@
 
 **Computer Science student at Purdue University (Grad. May 2025)**
   - Amateur Game Dev
-  - Curious about literature, ask me what I'm reading!
+  - Ask me what I'm reading!
   - Current Project(s)
     - Website (hopefully)
 
