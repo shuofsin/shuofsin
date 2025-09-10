@@ -4,8 +4,6 @@
 
 Software Developer at Charles Scwhab
 
-Game Developer and Writer
-
 Contact me here: sinhah239@gmail.com
 
 [^1]: https://giphy.com/infinitelivez
