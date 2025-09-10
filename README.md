@@ -4,7 +4,7 @@
 
 Software Developer at Charles Scwhab
 
-Game Developer
+Hobbiest Game Developer using Godot
 
 Contact me here: sinhah239@gmail.com
 
