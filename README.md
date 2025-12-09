@@ -6,7 +6,7 @@ Programmer at Charles Scwhab.
 
 Game developer and writer.
 
-shuofsin.github.io
+https://shuofsin.github.io
 
 Contact me here: sinhah239@gmail.com
 
